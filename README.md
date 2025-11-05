@@ -1,0 +1,2 @@
+# Ministry-of-Infrastructure-project-transport-networks
+"This report presents a sample work for Department of Transport Strategy as part of the 'STARTUJ Z naMI' program. It includes an Excel table for monitoring two infrastructure projects, delay calculations using formulas, conditional formatting, and statistical analysis. Recommendations for sustainable transport development in Poland are provided."
